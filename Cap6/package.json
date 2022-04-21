@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "chokidar": "^3.5.1",
+    "commander": "^9.2.0",
     "stat-mode": "^1.0.0"
   }
 }
